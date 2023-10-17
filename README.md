@@ -7,7 +7,7 @@
 #### PPT - https://github.com/JoelJJoseph/intel-oneAPI/tree/main/PPT
 #### Medium - https://medium.com/@joeljoseph1810/dyslexify-67e45e7e61a6
 ## DEMO VIDEO - https://youtu.be/bcyEJcy2iyQ
-## A Brief of the Prototype <img src="https://github.com/JoelJJoseph/intel-oneAPI/assets/72274851/81390908-eaae-4fb1-bb79-0fa8f96bd15c" height="80" width="80"> <br>
+## A Brief of the Prototype <img src="https://github.com/JoelJJoseph/openAPI_project/assets/72274851/0e38c8a9-99f0-4454-9441-58b724b94dbb" height="80" width="80"> <br>
 
 A neurological condition called dyslexia impairs a person's capacity for reading, writing, and spelling. It affects how the brain interprets language, making it challenging for those with dyslexia to understand written content. Between 5% and 20% of Indians suffer with dyslexia, with urban regions having a higher prevalence of the condition. This indicates that millions of Indian school children experience reading and comprehension problems as a result of this disorder. The creation of solutions like our product Dyslexify, a machine learning initiative intended to help people with dyslexia improve their reading and comprehension skills, has been made possible by technological developments using intel’s oneAPI.
 
@@ -16,19 +16,19 @@ A neurological condition called dyslexia impairs a person's capacity for reading
 <img src="https://raw.githubusercontent.com/raison024/ArchDiagram/main/Homr.png" alt="Homepage" height="500">
 </a>
 
-## Features we Offer <img src="https://github.com/JoelJJoseph/intel-oneAPI/assets/72274851/ab7b93c9-160c-49f1-91f3-853a5aaeaf22" height="80" width="80"> <br>
+## Features we Offer <img src="https://github.com/JoelJJoseph/openAPI_project/assets/72274851/a8dc5410-6108-45ec-8b98-650405833d89" height="80" width="80"> <br>
 ⭐ 3D model with AR interface usIng oneAPI Rendering toolkit <br>
 ⭐ Image to speech recognition, text to speech recognition, using SYCL <br>
 ⭐ ML driven suggestion of books ,using daal4py <br>
 ⭐ AI Powered Document Assistant, using GPU Strength <br>
 
 
-## Architecture Diagram <img src="https://github.com/JoelJJoseph/intel-oneAPI/assets/72274851/136f45e1-5d5a-4aa5-b71b-73a644686216" height="80" width="80"> <br>
+## Architecture Diagram <img src="https://github.com/JoelJJoseph/openAPI_project/assets/72274851/b8059e55-0ada-4c4a-9be1-9073604ad7c6" height="80" width="80"> <br>
 <img src="https://raw.githubusercontent.com/raison024/ArchDiagram/main/Arch2.png" alt="Logo" height="300">
  
 
 
-## Tech Stack: <img src="https://github.com/JoelJJoseph/intel-oneAPI/assets/72274851/13362666-adb9-4e7f-ae11-d00ad0339e9e" height="80" width="80"> <br>
+## Tech Stack: <img src="https://github.com/JoelJJoseph/openAPI_project/assets/72274851/1e442ca1-5647-4c7b-872d-6f88729fc623" height="80" width="80"> <br>
 * Intel's oneAPI
   * oneDAAL
   * DYC++/SYCL
@@ -45,12 +45,12 @@ A neurological condition called dyslexia impairs a person's capacity for reading
 * WebAR
 * PythonAnywhere
    
-## Step-by-Step Code Execution Instructions:<img src="https://github.com/JoelJJoseph/intel-oneAPI/assets/72274851/c1f1a73e-3850-4160-8955-2f1311f2a421" height="80" width="80"> <br>
+## Step-by-Step Code Execution Instructions:<img src="https://github.com/JoelJJoseph/openAPI_project/assets/72274851/a1252cbe-f137-4a87-9fb7-0ab6f7809f8d" height="80" width="80"> <br>
 
   This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed
 
 
-## Augmented-Reality Smart Card <img src="https://github.com/JoelJJoseph/intel-oneAPI/assets/72274851/81d0354b-6865-4aff-ab05-9058c5f6a391" height="80" width="80"> <br>
+## Augmented-Reality Smart Card <img src="https://github.com/JoelJJoseph/openAPI_project/assets/72274851/7a48517e-58ea-480e-8f8c-dc2d916070e3" height="80" width="80"> <br>
 When the AR card is scanned, the user is directed to any one of the of five symbols that represent valued services:
  ⭐ The webpage of Dyslexify.<br>
  ⭐ The AR page to view few 3d model from the website<br>
@@ -165,7 +165,7 @@ When the AR card is scanned, the user is directed to any one of the of five symb
 </details>
   
 
-## What I Learned: <img src="https://github.com/JoelJJoseph/intel-oneAPI/assets/72274851/fb7ba852-f261-4fec-90a7-3fa629f0fee4" height="80" width="80"> <br>
+## What I Learned: <img src="https://github.com/JoelJJoseph/openAPI_project/assets/72274851/087b2127-4eb8-4991-9bb4-c1dfec6f84a2" height="80" width="80"> <br>
 We delve into the key learnings and technologies utilized during the creation of our project. By harnessing a diverse set of cutting-edge technologies, we aimed to develop an innovative solution that seamlessly integrates multiple domains, including SYCL DPC++ using Intel oneAPI, oneDAAL, Intel Rendering Toolkit with OSPRay and OSPRay Studio, Intel DevCloud, Python wrapper framework, Flask, JavaScript Chrome extensions, OpenAI's GPT-3.5, Blender, Unity, and WebAR (Web-based Augmented Reality).
 
 * SYCL DPC++ using Intel oneAPI:
